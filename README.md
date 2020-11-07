@@ -1,14 +1,16 @@
 ### Hello World! This is Jahnavi :wink:
            
 
+<img src="https://media.giphy.com/media/yrhhmre5fN2PtRujfo/giphy.gif" alt="Hello" width=200/></img>
 
+------
 I am a Third year student currently pursuing my B.Tech from Vellore Institute of Technology, Vellore in the field of Information Technology.
 My hobbies include travelling,watching movies and my life is incomplete without music. 
 I am constantly learning new things to excel in my field of interest and is always open to advices and new ideas.
 
 - 🤔 I’m looking for help with project ideas on Deep learning and Computer vision.
-<img src="https://giphy.com/gifs/hills-pet-nutrition-science-diet-yrhhmre5fN2PtRujfo.gif" alt="hello"></img>
-  
+
+ ------ 
  ### My fields of interest :woman_technologist: 
  <table>
 <tbody>
@@ -49,6 +51,7 @@ I am constantly learning new things to excel in my field of interest and is alwa
 </tr>
 </tbody> 
 </table>
+------
 
 ### Find me around the web 🌎:
   
