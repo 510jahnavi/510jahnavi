@@ -52,7 +52,7 @@
 </table>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=510jahnavi&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=510jahnavi&&show_icons=true&count_private=true&include_all_commits=true" alt="My Github Stats">
 </p>
 
 ------
