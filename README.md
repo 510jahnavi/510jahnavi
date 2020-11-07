@@ -11,6 +11,9 @@ My hobbies include travelling,watching movies and my life is incomplete without 
 I am constantly learning new things to excel in my field of interest and is always open to advices and new ideas.
 
 <h5 align="center">
+  <code>
+    <a href ="https://www.linkedin.com/in/jahnavi-mishra-613188182/"><img src="https://github.com/510jahnavi/510jahnavi/blob/main/Github%20Images/linkedin.jfif">Linkedin</img></a>
+  </code>
   
 
 
