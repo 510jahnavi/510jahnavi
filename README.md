@@ -1,7 +1,7 @@
 ### Hello World! This is Jahnavi :wink: :yellow_heart:
            
 
-<img src="https://media.giphy.com/media/YrZECW1GgBkqat6F0B/giphy.gif" width=200/></img>
+<img src="https://t3.ftcdn.net/jpg/00/83/64/26/360_F_83642646_XYHBCxJIFZNmbD6YjX0ZmhXQsTwaV2Is.jpg" width=200/></img>
 
 ------
 #### :woman_student: I am a Third year student currently pursuing my B.Tech from Vellore Institute of Technology, Vellore in the field of Information Technology.
