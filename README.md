@@ -1,59 +1,18 @@
-### Hello World! This is Jahnavi :wink: :yellow_heart:
+### Hello! This is Jahnavi Mishra.
            
 
 <img src="https://t3.ftcdn.net/jpg/00/83/64/26/360_F_83642646_XYHBCxJIFZNmbD6YjX0ZmhXQsTwaV2Is.jpg" width=200/></img>
 
 ------
-#### :woman_student: I am a Third year student currently pursuing my B.Tech from Vellore Institute of Technology, Vellore in the field of Information Technology.
-#### :dancers:My hobbies include travelling,watching movies and my life is incomplete without music. 
-#### :open_book:I am constantly learning new things to excel in my field of interest and is always open to advices and new ideas.
-#### :point_right:I’m looking for help with project ideas on Deep learning and Computer vision.
+Currently pursuing a Master's degree in Data Analytics and Engineering at Northeastern University, I am an avid Data Science and Machine Learning enthusiast. With a year of professional experience as an ML Engineer, I have a strong foundation in NLP-based problem solving and working with textual data.
+My Focus:
+1. Natural Language Processing: Passionate about unraveling the nuances of language and extracting insights from text data.
+2. Machine Learning: Proficient in designing and implementing ML algorithms for real-world challenges.
+3. SQL & NoSQL Databases: Skilled in managing and analyzing data using both relational and non-relational databases.
+4. Looking forward to gain knowledge on data visualization tools and big data technologies.
 
  ------ 
- ### My Fields of Interest :woman_technologist: 
- <table>
-<tbody>
- <tr>
-<td align="center" width="33%">
-<img height=60px src="https://github.com/510jahnavi/510jahnavi/blob/main/Github%20Images/C%20language.png"> 
-</td>
-<td align="center" width="33%">
-<img height=60px src="https://github.com/510jahnavi/510jahnavi/blob/main/Github%20Images/python.jfif"> 
-</td>
-<td align="center" width="33%">
-<img height=60px src="https://github.com/510jahnavi/510jahnavi/blob/main/Github%20Images/html5.png"> 
-</td>
- </tr>
- 
- <tr>
-<td align="center" width="33%">
-<img height=60px src="https://github.com/510jahnavi/510jahnavi/blob/main/Github%20Images/css3.png"> 
-</td>
 
- <td align="center" width="33%">
-<img height=60px src="https://github.com/510jahnavi/510jahnavi/blob/main/Github%20Images/javascript.png"> 
-</td>
-
-<td align="center" width="33%">
-<img height=60px src="https://github.com/510jahnavi/510jahnavi/blob/main/Github%20Images/tensorflow.png"> 
-</td>
-</tr>
-</tbody>
-</table>
-
-<table>
- <tbody>
-<tr>
-<td align="center" width="100%">
-<img height=60px src="https://github.com/510jahnavi/510jahnavi/blob/main/Github%20Images/pandas.png"> 
-</td>
-</tr>
-</tbody> 
-</table>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=510jahnavi&&show_icons=true&count_private=true&include_all_commits=true" alt="My Github Stats">
-</p>
 
 ------
 ### Find me around the web 🌎:
