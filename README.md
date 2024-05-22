@@ -1,7 +1,7 @@
 ### Hello! This is Jahnavi Mishra.
            
 
-<img src="https://t3.ftcdn.net/jpg/00/83/64/26/360_F_83642646_XYHBCxJIFZNmbD6YjX0ZmhXQsTwaV2Is.jpg" width=800/></img>
+<img src="https://www.decube.io/post/data-science-concept" width=800/></img>
 
 ------
 Currently pursuing a Master's degree in Data Analytics and Engineering at Northeastern University, I am an avid Data Science and Machine Learning enthusiast. With a year of professional experience as an ML Engineer, I have a strong foundation in NLP-based problem solving and working with textual data.
